@@ -17,11 +17,11 @@ I needed a WhatsApp client for my iPad and all of the ones available in the App 
 
 #### Run/Install:
 
-![](img/5.png)
-
 1. Open the project in XCode
 2. Connect your iOS device
 3. Run the project in your device
+
+![](img/5.png)
 
 #### TODO:
 
