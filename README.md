@@ -21,9 +21,7 @@ I needed a WhatsApp client for my iPad and all of the ones available in the App 
 2. Connect your iOS device
 3. Run the project in your device
 
-Example:
-
-![](img/5.png)
+![](img/run.png)
 
 #### TODO:
 
