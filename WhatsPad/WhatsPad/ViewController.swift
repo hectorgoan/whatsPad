@@ -25,7 +25,7 @@ class ViewController: UIViewController, WKNavigationDelegate {
 
         super.viewDidLoad()
 
-        let url = URL(string: "https://web.whatsapp.com/")!
+        let url = URL(string: "https://web.whatsapp.com/es")!
         webView.customUserAgent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36"
         webView.load(URLRequest(url: url))
         webView.allowsBackForwardNavigationGestures = true
