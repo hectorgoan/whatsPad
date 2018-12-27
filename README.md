@@ -4,7 +4,7 @@
 
 ### A WhatsApp (web) client for the iPad.
 
-A simple webview that let's you use the WhatsApp web client on your iPad.
+A simple webview that lets you use the WhatsApp web client on your iPad.
 
 #### Motivation: 
 
