@@ -25,5 +25,6 @@ I needed a WhatsApp client for my iPad and all of the ones available in the App 
 
 #### TODO:
 
+- Add language support
 - Publish it on the App Store ($$$)
 - Enable notifications
